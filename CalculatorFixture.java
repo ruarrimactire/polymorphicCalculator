@@ -2,7 +2,7 @@
  * Created on Oct 29, 2003
  *
  */
-package calculator2003;
+package com.mycompany.calculator2003;
 
 import fit.ColumnFixture;
 

@@ -1,4 +1,4 @@
-package calculator2003;
+package com.mycompany.calculator2003;
 
 // Defines how to interact with the current strategy used when a numeric
 // key is hit.

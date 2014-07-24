@@ -8,7 +8,7 @@
  *
  *
  */
-package calculator2003;
+package com.mycompany.calculator2003;
 
 public class CalculatorModel
 {

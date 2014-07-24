@@ -1,4 +1,4 @@
-package calculator2003;
+package com.mycompany.calculator2003;
 
 // Defines the interface for key strike behavior.
 public interface Key
