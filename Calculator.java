@@ -28,7 +28,6 @@ public class Calculator extends Frame
                 add(sevenButton);
 		sevenButton.addActionListener(key7Listener);
 		sevenButton.setName("sevenButton");
-                sevenButton.setSize(40, 40); //////////////////////////////////
                 add(eightButton);
 		eightButton.addActionListener(key8Listener);
 		eightButton.setName("eightButton");
